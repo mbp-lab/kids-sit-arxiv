@@ -52,3 +52,9 @@ To run the code and notebooks from this repository:
 ```bash
 conda env create -f environment.yml
 conda activate kids-sit
+
+---
+
+## License
+
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
